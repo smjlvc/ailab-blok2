@@ -1,0 +1,8 @@
+{
+  "name": "GirlTHing AI Lab - Blok 2",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "postCreateCommand": "pip install -r requirements.txt && cp -n .env.example .env",
+  "forwardPorts": [8501],
+  "portsAttributes": { "8501": { "label": "Streamlit aplikacija", "onAutoForward": "openBrowser" } },
+  "customizations": { "vscode": { "extensions": ["ms-python.python", "ms-toolsai.jupyter"] } }
+}
