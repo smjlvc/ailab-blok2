@@ -1,0 +1,6 @@
+openai>=1.66
+numpy
+pydantic
+python-dotenv
+pypdf
+streamlit>=1.31

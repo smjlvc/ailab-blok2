@@ -1,0 +1,12 @@
+[
+  {"pitanje": "Koliko dug treba biti CV?", "ocekivano": "Jedna stranica.", "izvor": "pisanje_cv.pdf"},
+  {"pitanje": "Šta je STAR metoda?", "ocekivano": "Način odgovaranja na pitanja na intervjuu: Situacija, Zadatak, Akcija, Rezultat.", "izvor": "razgovor_za_posao.pdf"},
+  {"pitanje": "Kada da pošaljem zahvalnicu poslije intervjua?", "ocekivano": "U roku od 24 sata.", "izvor": "razgovor_za_posao.pdf"},
+  {"pitanje": "Koliko projekata da stavim na GitHub?", "ocekivano": "Tri do pet urednih, dovršenih projekata; kvalitet je važniji od količine.", "izvor": "github_profil.pdf"},
+  {"pitanje": "Šta da napišem u naslov (headline) na LinkedInu?", "ocekivano": "Ne samo 'Studentica', nego npr. smjer, vještine i interese, kao 'Studentica računarstva | Python | Zainteresovana za AI'.", "izvor": "linkedin_profil.pdf"},
+  {"pitanje": "Kako se zove završni događaj programa GirlTHing AI Lab?", "ocekivano": "AI Challenge.", "izvor": "girlthing_ai_lab.pdf"},
+  {"pitanje": "Kada se otvaraju prijave za stipendije?", "ocekivano": "Za većinu stipendija na početku akademske godine, u septembru i oktobru.", "izvor": "stipendije.pdf"},
+  {"pitanje": "Koliko ranije da počnem učiti za ispit iz programiranja?", "ocekivano": "Bar dvije sedmice prije ispita.", "izvor": "ucenje_programiranja.pdf"},
+  {"pitanje": "Koliko košta upis na fakultet?", "ocekivano": "NEMA_ODGOVORA", "izvor": ""},
+  {"pitanje": "Koja je najbolja pizzerija u Tuzli?", "ocekivano": "NEMA_ODGOVORA", "izvor": ""}
+]
