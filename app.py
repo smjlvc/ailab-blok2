@@ -23,13 +23,13 @@ MAX_QUESTIONS = 20         # najviše pitanja po razgovoru (kontrola troškova)
 
 # ---------------------------------------------------------------- stranica
 st.set_page_config(page_title="Studentski asistent", page_icon="🎓")
-st.title("🎓 Studentski asistent")
+st.title("🎓 Asistent za studente")
 
 with st.sidebar:
     st.header("O asistentu")
     st.write(
-        "Odgovaram na pitanja o CV-u, razgovoru za posao, GitHub i LinkedIn profilu, "
-        "učenju programiranja, stipendijama i programu GirlTHing AI Lab."
+        "Odgovaram na pitanja o izboru karijere, razgovoru za posao, LinkedIn profilu "
+        "i umrežavanju, te preživljavanju prve godine na poslu."
     )
     st.caption("Odgovori su samo iz naše baze znanja. Ispod svakog odgovora su izvori.")
     if st.button("🔄 Novi razgovor"):
