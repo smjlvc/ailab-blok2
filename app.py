@@ -31,7 +31,7 @@ with st.sidebar:
         "Odgovaram na pitanja o izboru karijere, razgovoru za posao, LinkedIn profilu "
         "i umrežavanju, te preživljavanju prve godine na poslu."
     )
-    st.caption("Odgovori su samo iz naše baze znanja. Ispod svakog odgovora su izvori.")
+    st.caption("Odgovori su samo iz naše baze znanja.")
     if st.button("🔄 Novi razgovor"):
         st.session_state.messages = []
         st.rerun()
