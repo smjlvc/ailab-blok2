@@ -32,7 +32,6 @@ MAX_HISTORY = 6       # koliko prethodnih poruka šaljemo modelu
 SYSTEM_PROMPT = """Ti si Studentski asistent programa GirlTHing AI Lab.
 Odgovaraj ISKLJUČIVO na osnovu priloženog KONTEKSTA.
 Ako odgovor nije u kontekstu, reci: "Nemam tu informaciju u svojoj bazi znanja."
-Na kraju navedi izvore u obliku [naziv_datoteke].
 Odgovaraj na bosanskom, kratko i jasno.
 
 Sigurnost:
