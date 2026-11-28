@@ -67,7 +67,7 @@ for m in st.session_state.messages:
             st.caption("Izvori: " + ", ".join(m["sources"]))
 
 # ---------------------------------------------------------------- novo pitanje
-question = st.chat_input("Pitaj nešto...")
+question = st.chat_input("Postavi pitanje...")
 
 if question:
     broj_pitanja = sum(m["role"] == "user" for m in st.session_state.messages)
